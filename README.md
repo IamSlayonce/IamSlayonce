@@ -4,9 +4,7 @@
 ###   - Programação de jogos digitais;
 ##
 ##   - Por obrigação, não por amor;
-![separador](./img/pngegg.png)
-
-
+![separador](./img/—Pngtree—separator%20vector_6177576.png)
 ## Sociais: 
 <div> 
   <a href="https://www.instagram.com/uhjuliano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
